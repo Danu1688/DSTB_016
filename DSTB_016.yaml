@@ -1,4 +1,43 @@
 proxies:
+- name: danu015_LiveDO016a
+  type: trojan
+  server: 104.21.8.121
+  port: 443
+  password: 87b878d2-8cb7-4a95-a446-bedb7b75b920
+  udp: true
+  sni: sgdo2.rajs-vpn.xyz
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: sgdo2.rajs-vpn.xyz
+- name: danu015_LiveDO016b
+  type: trojan
+  server: 172.67.139.111
+  port: 443
+  password: 87b878d2-8cb7-4a95-a446-bedb7b75b920
+  udp: true
+  sni: sgdo2.rajs-vpn.xyz
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: sgdo2.rajs-vpn.xyz
+- name: danu015_LiveDO016c
+  type: trojan
+  server: beacon.liveon.id
+  port: 443
+  password: 87b878d2-8cb7-4a95-a446-bedb7b75b920
+  udp: true
+  sni: sgdo2.rajs-vpn.xyz
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan
+    headers:
+      Host: sgdo2.rajs-vpn.xyz
 - name: danu11_LiveIKD16a
   type: trojan
   server: 104.21.8.121
