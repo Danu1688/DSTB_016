@@ -1,4 +1,17 @@
 proxies:
+- name: TrojanWsSvr-Live_1
+  type: trojan
+  server: 104.18.1.196
+  port: 443
+  password: 9766b64f-2d18-464b-8be5-02231f0e0c44
+  udp: true
+  sni: sgdo3.dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: sgdo3.dstb.cloud
 - name: danu15_LiveDO16a
   type: trojan
   server: 104.21.8.121
