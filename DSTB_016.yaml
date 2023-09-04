@@ -1,4 +1,17 @@
 proxies:
+- name: Satria_LiveDO_1
+  type: trojan
+  server: 104.21.8.121
+  port: 443
+  password: 2ad2b844-1648-49e9-9899-a01dc5a0b3c7
+  udp: true
+  sni: sgdo2.myserver-prem.xyz
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /xraytrojanws
+    headers:
+      Host: sgdo2.myserver-prem.xyz
 - name: TrojanWsSvr-Live_1
   type: trojan
   server: 104.18.1.196
