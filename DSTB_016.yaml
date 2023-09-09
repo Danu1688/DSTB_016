@@ -1,7 +1,7 @@
 proxies:
 - name: Satria_LiveDO_1
   type: trojan
-  server: 104.21.8.121
+  server: circles.asia
   port: 443
   password: 2ad2b844-1648-49e9-9899-a01dc5a0b3c7
   udp: true
@@ -14,7 +14,7 @@ proxies:
       Host: sgdo2.myserver-prem.xyz
 - name: TrojanWsSvr-Live_1
   type: trojan
-  server: 104.18.1.196
+  server: circles.asia
   port: 443
   password: 9766b64f-2d18-464b-8be5-02231f0e0c44
   udp: true
