@@ -1,4 +1,69 @@
 proxies:
+- name: SeverDo2_Live_I1
+  type: trojan
+  server: 104.17.224.203
+  port: 443
+  password: 1cd070a9-b27d-4be2-80f7-4c3456b1b507
+  udp: true
+  sni: dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: dstb.cloud
+- name: SeverDo2_Live_I2
+  type: trojan
+  server: 104.16.143.190
+  port: 443
+  password: 1cd070a9-b27d-4be2-80f7-4c3456b1b507
+  udp: true
+  sni: dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: dstb.cloud
+- name: SeverDo2_Live_I3
+  type: trojan
+  server: 172.67.75.37
+  port: 443
+  password: 1cd070a9-b27d-4be2-80f7-4c3456b1b507
+  udp: true
+  sni: dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: dstb.cloud
+- name: SeverDo2_Live_I4
+  type: trojan
+  server: 104.26.15.208
+  port: 443
+  password: 1cd070a9-b27d-4be2-80f7-4c3456b1b507
+  udp: true
+  sni: dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: dstb.cloud
+- name: SeverDo2_Live_I5
+  type: trojan
+  server: 104.26.14.208
+  port: 443
+  password: 1cd070a9-b27d-4be2-80f7-4c3456b1b507
+  udp: true
+  sni: dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: dstb.cloud
 - name: SatriaSvrNusa_LiveNusa_1
   type: trojan
   server: beacon.liveon.id
