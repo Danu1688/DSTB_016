@@ -64,20 +64,7 @@ proxies:
     path: /trojan-ws
     headers:
       Host: dstb.cloud
-- name: SatriaSvrNusa_LiveNusa_1
-  type: trojan
-  server: beacon.liveon.id
-  port: 443
-  password: faa83461-2fe5-4049-a0b7-7537c0018b44
-  udp: true
-  sni: vpna4mvbhv.scpotato.me
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /trojan
-    headers:
-      Host: vpna4mvbhv.scpotato.me
-- name: Satria_LiveDO_1
+- name: SatriaDo1B_Live_H1
   type: trojan
   server: circles.asia
   port: 443
@@ -90,7 +77,7 @@ proxies:
     path: /xraytrojanws
     headers:
       Host: sgdo2.myserver-prem.xyz
-- name: TrojanWsSvr-Live_1
+- name: TrojanWsDo1C-Live_H1
   type: trojan
   server: circles.asia
   port: 443
