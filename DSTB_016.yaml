@@ -1,5 +1,5 @@
 proxies:
-- name: SeverDo2_Live_I1
+- name: SeverDo2_Live_IP1
   type: trojan
   server: 104.17.224.203
   port: 443
@@ -12,7 +12,7 @@ proxies:
     path: /trojan-ws
     headers:
       Host: dstb.cloud
-- name: SeverDo2_Live_I2
+- name: SeverDo2_Live_IP2
   type: trojan
   server: 104.16.143.190
   port: 443
@@ -25,7 +25,7 @@ proxies:
     path: /trojan-ws
     headers:
       Host: dstb.cloud
-- name: SeverDo2_Live_I3
+- name: SeverDo2_Live_IP3
   type: trojan
   server: 172.67.75.37
   port: 443
@@ -38,7 +38,7 @@ proxies:
     path: /trojan-ws
     headers:
       Host: dstb.cloud
-- name: SeverDo2_Live_I4
+- name: SeverDo2_Live_IP4
   type: trojan
   server: 104.26.15.208
   port: 443
@@ -51,7 +51,7 @@ proxies:
     path: /trojan-ws
     headers:
       Host: dstb.cloud
-- name: SeverDo2_Live_I5
+- name: SeverDo2_Live_IP5
   type: trojan
   server: 104.26.14.208
   port: 443
@@ -64,42 +64,120 @@ proxies:
     path: /trojan-ws
     headers:
       Host: dstb.cloud
-- name: SatriaDo1B_Live_H1
+- name: SeverDo2_Live_H1
   type: trojan
   server: circles.asia
   port: 443
-  password: 2ad2b844-1648-49e9-9899-a01dc5a0b3c7
+  password: 1cd070a9-b27d-4be2-80f7-4c3456b1b507
   udp: true
-  sni: sgdo2.myserver-prem.xyz
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /xraytrojanws
-    headers:
-      Host: sgdo2.myserver-prem.xyz
-- name: TrojanWsDo1C-Live_H1
-  type: trojan
-  server: circles.asia
-  port: 443
-  password: 9766b64f-2d18-464b-8be5-02231f0e0c44
-  udp: true
-  sni: sgdo3.dstb.cloud
+  sni: dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: sgdo3.dstb.cloud
-- name: DanuBackup_LiveDOc
+      Host: dstb.cloud
+- name: SeverDo2_Live_H2
   type: trojan
   server: beacon.liveon.id
   port: 443
-  password: 39ca4c74-9abd-4c33-9e11-b779fea93c50
+  password: 1cd070a9-b27d-4be2-80f7-4c3456b1b507
   udp: true
-  sni: do-2device.myserver-prem.cloud
+  sni: dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
-    path: /trojan
+    path: /trojan-ws
     headers:
-      Host: do-2device.myserver-prem.cloud
+      Host: dstb.cloud
+- name: ServerNusa_Live_IP1
+  type: trojan
+  server: 104.17.224.203
+  port: 443
+  password: 63780723-758c-4456-bc8e-13795525fb8a
+  udp: true
+  sni: nusa.dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: nusa.dstb.cloud
+- name: ServerNusa_Live_IP2
+  type: trojan
+  server: 104.16.143.190
+  port: 443
+  password: 63780723-758c-4456-bc8e-13795525fb8a
+  udp: true
+  sni: nusa.dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: nusa.dstb.cloud
+- name: ServerNusa_Live_IP3
+  type: trojan
+  server: 172.67.75.37
+  port: 443
+  password: 63780723-758c-4456-bc8e-13795525fb8a
+  udp: true
+  sni: nusa.dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: nusa.dstb.cloud
+- name: ServerNusa_Live_IP4
+  type: trojan
+  server: 104.26.15.208
+  port: 443
+  password: 63780723-758c-4456-bc8e-13795525fb8a
+  udp: true
+  sni: nusa.dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: nusa.dstb.cloud
+- name: ServerNusa_Live_IP5
+  type: trojan
+  server: 104.26.14.208
+  port: 443
+  password: 63780723-758c-4456-bc8e-13795525fb8a
+  udp: true
+  sni: nusa.dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: nusa.dstb.cloud
+- name: ServerNusa_Live_H1
+  type: trojan
+  server: circles.asia
+  port: 443
+  password: 63780723-758c-4456-bc8e-13795525fb8a
+  udp: true
+  sni: nusa.dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: nusa.dstb.cloud
+- name: ServerNusa_Live_H2
+  type: trojan
+  server: beacon.liveon.id
+  port: 443
+  password: 63780723-758c-4456-bc8e-13795525fb8a
+  udp: true
+  sni: nusa.dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: nusa.dstb.cloud
