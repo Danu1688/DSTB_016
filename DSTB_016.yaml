@@ -1,217 +1,217 @@
 proxies:
-- name: SvrNusa1_Ultimate_IP1
+- name: SvrNusa2_Ultimate_IP1
   type: trojan
   server: 104.18.53.172
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Ultimate_IP2
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Ultimate_IP2
   type: trojan
   server: 104.18.49.163
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Ultimate_H1
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Ultimate_H1
   type: trojan
   server: cvs-deo.shopeemobile.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Ultimate_H2
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Ultimate_H2
   type: trojan
   server: dl.cvs.freefiremobile.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Flex_H1
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Flex_H1
   type: trojan
   server: sogood.linefriends.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Flex_H2
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Flex_H2
   type: trojan
   server: ava.game.naver.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Flex_H3
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Flex_H3
   type: trojan
   server: df.game.naver.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Vision_IP1
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Vision_IP1
   type: trojan
   server: 104.18.225.52
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Vidio_IP1
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Vidio_IP1
   type: trojan
   server: 172.67.5.14
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Vidio_IP2
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Vidio_IP2
   type: trojan
   server: 104.22.5.240
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Vidio_H1
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Vidio_H1
   type: trojan
   server: quiz.vidio.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Vidio_H2
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Vidio_H2
   type: trojan
   server: quiz.int.vidio.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Conv_IP1
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Conv_IP1
   type: trojan
   server: 104.18.12.78
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Conv_IP2
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Conv_IP2
   type: trojan
   server: 104.18.13.78
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Conv_H1
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Conv_H1
   type: trojan
   server: gomarketplacecontent-cf.zoom.us
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Conv_H2
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Conv_H2
   type: trojan
   server: chat.sociomile.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Iflix_SNI1
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Iflix_SNI1
   type: trojan
-  server: nusa1.dstb.cloud
+  server: nusa2.dstb.cloud
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
   sni: tv.iflix.com
   skip-cert-verify: true
@@ -221,11 +221,11 @@ proxies:
     headers:
       Host: tv.iflix.com
   allowInsecure: true
-- name: SvrNusa1_Iflix_SNI2
+- name: SvrNusa2_Iflix_SNI2
   type: trojan
-  server: nusa1.dstb.cloud
+  server: nusa2.dstb.cloud
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
   sni: upload.iflix.com
   skip-cert-verify: true
@@ -235,11 +235,11 @@ proxies:
     headers:
       Host: upload.iflix.com
   allowInsecure: true
-- name: SvrNusa1_Iflix_SNI3
+- name: SvrNusa2_Iflix_SNI3
   type: trojan
-  server: nusa1.dstb.cloud
+  server: nusa2.dstb.cloud
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
   sni: live.iflix.com
   skip-cert-verify: true
@@ -249,11 +249,11 @@ proxies:
     headers:
       Host: live.iflix.com
   allowInsecure: true
-- name: SvrNusa1_Iflix_SNI4
+- name: SvrNusa2_Iflix_SNI4
   type: trojan
-  server: nusa1.dstb.cloud
+  server: nusa2.dstb.cloud
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
   sni: access.iflix.com
   skip-cert-verify: true
@@ -263,11 +263,11 @@ proxies:
     headers:
       Host: access.iflix.com
   allowInsecure: true
-- name: SvrNusa1_Iflix_SNI5
+- name: SvrNusa2_Iflix_SNI5
   type: trojan
-  server: nusa1.dstb.cloud
+  server: nusa2.dstb.cloud
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
   sni: vplay.iflix.com
   skip-cert-verify: true
@@ -277,11 +277,11 @@ proxies:
     headers:
       Host: vplay.iflix.com
   allowInsecure: true
-- name: SvrNusa1_Iflix_SNI6
+- name: SvrNusa2_Iflix_SNI6
   type: trojan
-  server: nusa1.dstb.cloud
+  server: nusa2.dstb.cloud
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
   sni: hwvip.iflix.com
   skip-cert-verify: true
@@ -291,115 +291,115 @@ proxies:
     headers:
       Host: hwvip.iflix.com
   allowInsecure: true
-- name: SvrNusa1_Joox_H1
+- name: SvrNusa2_Joox_H1
   type: trojan
   server: app.gopay.co.id
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_Joox_H2
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_Joox_H2
   type: trojan
   server: app.genflix.co.id
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_XCP_H1
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_XCP_H1
   type: trojan
   server: support.zoom.us
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_XCP_H2
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_XCP_H2
   type: trojan
   server: app.midtrans.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_XCP_H3
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_XCP_H3
   type: trojan
   server: seal.globalsign.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_XCP_H4
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_XCP_H4
   type: trojan
   server: www.skillacademy.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_XCP_H5
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_XCP_H5
   type: trojan
   server: www.udemy.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrNusa1_XCP_H6
+      Host: nusa2.dstb.cloud
+- name: SvrNusa2_XCP_H6
   type: trojan
   server: api.midtrans.com
   port: 443
-  password: e1b9b156-fca6-43ca-b219-95a481703fc7
+  password: cba51c3f-80fb-4306-a41a-4a7a255b5b1e
   udp: true
-  sni: nusa1.dstb.cloud
+  sni: nusa2.dstb.cloud
   skip-cert-verify: true
   network: ws
   ws-opts:
     path: /trojan-ws
     headers:
-      Host: nusa1.dstb.cloud
-- name: SvrDSTB_DO_UnliTurbo_IP1
+      Host: nusa2.dstb.cloud
+- name: SvrDSTB_DO_Ultimate_IP1
   type: trojan
   server: 104.18.53.172
   port: 443
-  password: 8ea3c1a3-6e46-4736-b692-a82df9c404b9
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
   udp: true
   sni: dstb.cloud
   skip-cert-verify: true
@@ -408,11 +408,11 @@ proxies:
     path: /trojan-ws
     headers:
       Host: dstb.cloud
-- name: SvrDSTB_DO_UnliTurbo_IP2
+- name: SvrDSTB_DO_Ultimate_IP2
   type: trojan
   server: 104.18.49.163
   port: 443
-  password: 8ea3c1a3-6e46-4736-b692-a82df9c404b9
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
   udp: true
   sni: dstb.cloud
   skip-cert-verify: true
@@ -421,11 +421,11 @@ proxies:
     path: /trojan-ws
     headers:
       Host: dstb.cloud
-- name: SvrDSTB_DO_UnliTurbo_H1
+- name: SvrDSTB_DO_Ultimate_H1
   type: trojan
   server: cvs-deo.shopeemobile.com
   port: 443
-  password: 8ea3c1a3-6e46-4736-b692-a82df9c404b9
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
   udp: true
   sni: dstb.cloud
   skip-cert-verify: true
@@ -434,11 +434,11 @@ proxies:
     path: /trojan-ws
     headers:
       Host: dstb.cloud
-- name: SvrDSTB_DO_UnliTurbo_H2
+- name: SvrDSTB_DO_Ultimate_H2
   type: trojan
   server: dl.cvs.freefiremobile.com
   port: 443
-  password: 8ea3c1a3-6e46-4736-b692-a82df9c404b9
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
   udp: true
   sni: dstb.cloud
   skip-cert-verify: true
@@ -451,7 +451,7 @@ proxies:
   type: trojan
   server: sogood.linefriends.com
   port: 443
-  password: 8ea3c1a3-6e46-4736-b692-a82df9c404b9
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
   udp: true
   sni: dstb.cloud
   skip-cert-verify: true
@@ -464,7 +464,20 @@ proxies:
   type: trojan
   server: ava.game.naver.com
   port: 443
-  password: 8ea3c1a3-6e46-4736-b692-a82df9c404b9
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
+  udp: true
+  sni: dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: dstb.cloud
+- name: SvrDSTB_DO_Flex_H3
+  type: trojan
+  server: df.game.naver.com
+  port: 443
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
   udp: true
   sni: dstb.cloud
   skip-cert-verify: true
@@ -477,7 +490,7 @@ proxies:
   type: trojan
   server: 104.18.225.52
   port: 443
-  password: 8ea3c1a3-6e46-4736-b692-a82df9c404b9
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
   udp: true
   sni: dstb.cloud
   skip-cert-verify: true
@@ -490,7 +503,7 @@ proxies:
   type: trojan
   server: 172.67.5.14
   port: 443
-  password: 8ea3c1a3-6e46-4736-b692-a82df9c404b9
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
   udp: true
   sni: dstb.cloud
   skip-cert-verify: true
@@ -503,7 +516,7 @@ proxies:
   type: trojan
   server: 104.22.5.240
   port: 443
-  password: 8ea3c1a3-6e46-4736-b692-a82df9c404b9
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
   udp: true
   sni: dstb.cloud
   skip-cert-verify: true
@@ -516,7 +529,7 @@ proxies:
   type: trojan
   server: quiz.vidio.com
   port: 443
-  password: 8ea3c1a3-6e46-4736-b692-a82df9c404b9
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
   udp: true
   sni: dstb.cloud
   skip-cert-verify: true
@@ -529,7 +542,7 @@ proxies:
   type: trojan
   server: quiz.int.vidio.com
   port: 443
-  password: 8ea3c1a3-6e46-4736-b692-a82df9c404b9
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
   udp: true
   sni: dstb.cloud
   skip-cert-verify: true
@@ -538,6 +551,142 @@ proxies:
     path: /trojan-ws
     headers:
       Host: dstb.cloud
+- name: SvrDSTB_DO_Conv_IP1
+  type: trojan
+  server: 104.18.12.78
+  port: 443
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
+  udp: true
+  sni: dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: dstb.cloud
+- name: SvrDSTB_DO_Conv_IP2
+  type: trojan
+  server: 104.18.13.78
+  port: 443
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
+  udp: true
+  sni: dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: dstb.cloud
+- name: SvrDSTB_DO_Conv_H1
+  type: trojan
+  server: gomarketplacecontent-cf.zoom.us
+  port: 443
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
+  udp: true
+  sni: dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: dstb.cloud
+- name: SvrDSTB_DO_Conv_H2
+  type: trojan
+  server: chat.sociomile.com
+  port: 443
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
+  udp: true
+  sni: dstb.cloud
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: dstb.cloud
+- name: SvrDSTB_DO_Iflix_SNI1
+  type: trojan
+  server: dstb.cloud
+  port: 443
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
+  udp: true
+  sni: tv.iflix.com
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: tv.iflix.com
+  allowInsecure: true
+- name: SvrDSTB_DO_Iflix_SNI2
+  type: trojan
+  server: dstb.cloud
+  port: 443
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
+  udp: true
+  sni: upload.iflix.com
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: upload.iflix.com
+  allowInsecure: true
+- name: SvrDSTB_DO_Iflix_SNI3
+  type: trojan
+  server: dstb.cloud
+  port: 443
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
+  udp: true
+  sni: live.iflix.com
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: live.iflix.com
+  allowInsecure: true
+- name: SvrDSTB_DO_Iflix_SNI4
+  type: trojan
+  server: dstb.cloud
+  port: 443
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
+  udp: true
+  sni: access.iflix.com
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: access.iflix.com
+  allowInsecure: true
+- name: SvrDSTB_DO_Iflix_SNI5
+  type: trojan
+  server: dstb.cloud
+  port: 443
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
+  udp: true
+  sni: vplay.iflix.com
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: vplay.iflix.com
+  allowInsecure: true
+- name: SvrDSTB_DO_Iflix_SNI6
+  type: trojan
+  server: dstb.cloud
+  port: 443
+  password: 34053a1e-ab58-4889-9e16-7ec3bcb56302
+  udp: true
+  sni: hwvip.iflix.com
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /trojan-ws
+    headers:
+      Host: hwvip.iflix.com
+  allowInsecure: true
 - name: SvrAtha51_UnliTurbo_IP1
   type: trojan
   server: 104.18.53.172
@@ -681,4 +830,3 @@ proxies:
     path: /trojan
     headers:
       Host: id3.myserver-prem.xyz
-      
