@@ -575,7 +575,7 @@ proxies:
   type: trojan
   server: onelink.seabank.co.id
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -588,7 +588,7 @@ proxies:
   type: trojan
   server: static.seabank.co.id
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -601,7 +601,7 @@ proxies:
   type: trojan
   server: cvs-deo.shopeemobile.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -614,7 +614,7 @@ proxies:
   type: trojan
   server: dl.cvs.freefiremobile.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -627,7 +627,7 @@ proxies:
   type: trojan
   server: dl.dir.freefiremobile.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -640,7 +640,7 @@ proxies:
   type: trojan
   server: 104.16.156.36
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -653,7 +653,7 @@ proxies:
   type: trojan
   server: 104.16.157.36
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -666,7 +666,7 @@ proxies:
   type: trojan
   server: 104.18.62.204
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -679,7 +679,7 @@ proxies:
   type: trojan
   server: 104.18.62.201
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -692,7 +692,7 @@ proxies:
   type: trojan
   server: 104.18.56.55
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -705,7 +705,7 @@ proxies:
   type: trojan
   server: 104.18.56.56
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -718,7 +718,7 @@ proxies:
   type: trojan
   server: 104.18.56.58
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -731,7 +731,7 @@ proxies:
   type: trojan
   server: 104.18.56.30
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -744,7 +744,7 @@ proxies:
   type: trojan
   server: 104.18.62.229
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -757,7 +757,7 @@ proxies:
   type: trojan
   server: 162.159.140.158
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -770,7 +770,7 @@ proxies:
   type: trojan
   server: app.genflix.co.id
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -783,7 +783,7 @@ proxies:
   type: trojan
   server: investors.spotify.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -796,7 +796,7 @@ proxies:
   type: trojan
   server: cache.netflix.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -809,7 +809,7 @@ proxies:
   type: trojan
   server: quiz.int.vidio.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -822,7 +822,7 @@ proxies:
   type: trojan
   server: cvs-deo.shopeemobile.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -835,7 +835,7 @@ proxies:
   type: trojan
   server: creativeservices.netflix.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -848,7 +848,7 @@ proxies:
   type: trojan
   server: grabacademyportal.grab.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -861,7 +861,7 @@ proxies:
   type: trojan
   server: grabacademy-partners-profiling.grab.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -874,7 +874,7 @@ proxies:
   type: trojan
   server: grabacademy-merchants-profiling.grab.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -887,7 +887,7 @@ proxies:
   type: trojan
   server: 172.64.148.165
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -900,7 +900,7 @@ proxies:
   type: trojan
   server: 104.18.39.91
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -913,7 +913,7 @@ proxies:
   type: trojan
   server: ava.game.naver.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -926,7 +926,7 @@ proxies:
   type: trojan
   server: df.game.naver.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -939,7 +939,7 @@ proxies:
   type: trojan
   server: 104.18.225.52
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -952,7 +952,7 @@ proxies:
   type: trojan
   server: 172.67.5.14
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -965,7 +965,7 @@ proxies:
   type: trojan
   server: 104.22.5.240
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -978,7 +978,7 @@ proxies:
   type: trojan
   server: quiz.vidio.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -991,7 +991,7 @@ proxies:
   type: trojan
   server: quiz.int.vidio.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -1004,7 +1004,7 @@ proxies:
   type: trojan
   server: 104.18.12.78
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -1017,7 +1017,7 @@ proxies:
   type: trojan
   server: 104.18.13.78
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -1030,7 +1030,7 @@ proxies:
   type: trojan
   server: gomarketplacecontent-cf.zoom.us
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -1043,7 +1043,7 @@ proxies:
   type: trojan
   server: chat.sociomile.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -1056,7 +1056,7 @@ proxies:
   type: trojan
   server: app.gopay.co.id
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -1069,7 +1069,7 @@ proxies:
   type: trojan
   server: app.genflix.co.id
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -1082,7 +1082,7 @@ proxies:
   type: trojan
   server: support.zoom.us
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -1095,7 +1095,7 @@ proxies:
   type: trojan
   server: app.midtrans.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -1108,7 +1108,7 @@ proxies:
   type: trojan
   server: www.skillacademy.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -1121,7 +1121,7 @@ proxies:
   type: trojan
   server: www.udemy.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
@@ -1134,7 +1134,7 @@ proxies:
   type: trojan
   server: api.midtrans.com
   port: 443
-  password: 96042f13-d3da-4a77-80b6-57bd9bf6be02
+  password: d96a8c6c-4675-4edc-9033-225571a7f595
   udp: true
   sni: nusa1.dstb.cloud
   skip-cert-verify: true
